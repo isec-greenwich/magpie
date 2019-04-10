@@ -1,6 +1,8 @@
 # Magpie
 Monitoring AGainst cyber PhysIcal thrEats
 
+This is the repository for the MAGPIE prototype draft code and attack datasets developed. There exists a number of outstanding development and administrative issues requiring address before this project is easily consumable for researchers and developers. Some of these issues are highlighted below, but more may be added in the near future. However, the attack datasets are complete and can be utilised without issue. 
+
 Current development issues:
 
 - Major tidy up of code required for presentation
