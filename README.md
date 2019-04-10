@@ -21,7 +21,7 @@ Code bugs:
 - Shell script for automated ZigBee Jackdaw interface configuration is unreliable and sometimes fails (resort to manual configuration for testing)
 
 
-Limitations:
+Limitations (on Raspberry PI3 CPU):
 
 - Currently IP collection limited to TCP, as UDP traffic in parser is causing CPU saturation
 - Excessive TCP connections from browser sessions is causing CPU saturation, therefore filter out on specific IP addresses or hosts is required. 
