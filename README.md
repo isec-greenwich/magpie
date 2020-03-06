@@ -4,7 +4,8 @@ MAGPIE is a self-configurable intrusion detection system for detecting cyber-phy
 
 # Included in this repository:
 1. Full source-code to MAGPIE
-2. Usage user-guide summary
+2. Full list of Python and external library requirements
+3. Usage user-guide summary
 3. All normal and attack datasets used in smart home experiments for reproducing experiments
 
 # MAGPIE core Features:
