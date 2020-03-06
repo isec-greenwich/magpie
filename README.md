@@ -20,14 +20,14 @@ MAGPIE is a self-configurable intrusion detection system for detecting cyber-phy
 
 # Intrusion Detection System Architecture:
 The intrusion detection system architecture of MAGPIE is presented below, detailing each of the software and functional components.
-<img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_architecture.png" width="80%" height="80%">
+<br><img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_architecture.png" width="80%" height="80%"><br>
 
 # Raspberry PI3 Prototype Schematic:
 The schematic below provides an overview of the RaspberryPI 3 prototype system and hardware extensions to implement the MAGPIE architecture and intrusion detection software platform.
-<img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_proto.png" width="50%" height="50%">
+<br><img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_proto.png" width="50%" height="50%"><br>
 
 # Smart Home Testbed:
 Below is a the configuration overview of the smart home testbed used to evaluate the MAGPIE prototype system, including smart home IoT devices which were used in experiments and present in the datasets.
 
-<img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_testbed.png" width="75%" height="75%">
+<br><img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_testbed.png" width="75%" height="75%"><br>
 
