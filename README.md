@@ -33,3 +33,6 @@ Below is a the configuration overview of the smart home testbed used to evaluate
 
 <br><br><img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_testbed.png" width="75%" height="75%"><br><br>
 
+<br>
+# License [MIT]: https://github.com/isec-greenwich/magpie/blob/add-license-1/LICENSE.md
+
