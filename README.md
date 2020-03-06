@@ -6,5 +6,8 @@ This is the repository for the MAGPIE prototype draft code and attack datasets d
 
 ![Test Image 3](https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_proto.png)<!-- .element height="50%" width="50%" -->
 
+<img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_proto.png" width="50%" height="50%">
+
+
 <img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_testbed.png">
 
