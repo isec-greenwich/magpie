@@ -1,10 +1,10 @@
 # MAGPIE - Monitoring AGainst cyber PhysIcal thrEats
 
-MAGPIE is a self-configurable intrusion detection system for detecting cyber-physical attacks in smart home and IoT environments. MAGPIE employs a non-stationary UCB Reinforcement Learning algorithm and the Isolation Forest machine learning algorithm from the SCIKIT learn library, to automatically discover unknown attacks.  
+MAGPIE is a self-configurable intrusion detection system for detecting cyber-physical attacks in smart home and IoT environments. MAGPIE employs a non-stationary UCB Reinforcement Learning algorithm and the Isolation Forest machine learning algorithm from the SCIKIT learn library, to automatically discover unknown attacks. MAGPIE enables users' to define their own threshold to optimise attack detection for lowering False Positive or False Negative detections, based on the users' detection tolerance and requirements. MAGPIE takes in consideration by cyber and physical sources of data, as well as performing presence inference to dynamically select an appropriate presence-optimised attack detection model at runtime.
 
 # Included in this repository:
 1. Full source-code to MAGPIE
-2. Usage user-guide
+2. Usage user-guide summary
 3. All normal and attack datasets used in smart home experiments for reproducing experiments
 
 # MAGPIE core Features:
