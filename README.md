@@ -1,16 +1,33 @@
 # MAGPIE - Monitoring AGainst cyber PhysIcal thrEats
 
-This is the repository for the MAGPIE prototype draft code and attack datasets developed. There exists a number of outstanding development and minor bug issues requiring updates, but these should be easily rectified if required by researchers and developers. Some of these issues are highlighted below, but more may be added in the near future. However, the attack datasets are complete and can be utilised without issue. 
+MAGPIE is a self-configurable intrusion detection system for detecting cyber-physical attacks in smart home and IoT environments. MAGPIE employs a non-stationary UCB Reinforcement Learning algorithm and the Isolation Forest machine learning algorithm from the SCIKIT learn library, to automatically discover unknown attacks.  
 
-# MAGPIE System Architecture:
+# Included in this repository:
+1. Full source-code to MAGPIE
+2. Usage user-guide
+3. All normal and attack datasets used in smart home experiments for reproducing experiments
 
+# MAGPIE core Features:
+1. Online and offline training of MAGPIE system
+2. Offline detection testing and verification of MAGPIE system
+3. Online monitoring of cyber+physical datastream collection interfaces
+4. Configurable Reinforcement Learning settings for Isolation Forest model training
+5. Configurable online monitoring time window (e.g., datastream buffering and aggregation)
+6. Modular datastream parsing engine to add/remove feeds (requires regex extraction for input)
+7. User-defined attack detection threshold parameters
+8. Configurable user presence detection for dynamic presence model selection during online monitoring
+9. Interactive monitoring console output
+
+# Intrusion Detection System Architecture:
+The intrusion detection system architecture of MAGPIE is presented below, detailing each of the software and functional components.
 <img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_architecture.png" width="80%" height="80%">
 
-# MAGPIE Prototype Schematic:
-
+# Raspberry PI3 Prototype Schematic:
+The schematic below provides an overview of the RaspberryPI 3 prototype system and hardware extensions to implement the MAGPIE architecture and intrusion detection software platform.
 <img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_proto.png" width="50%" height="50%">
 
-# MAGPIE Testbed:
+# Smart Home Testbed:
+Below is a the configuration overview of the smart home testbed used to evaluate the MAGPIE prototype system, including smart home IoT devices which were used in experiments and present in the datasets.
 
 <img src="https://github.com/isec-greenwich/magpie/blob/master/v1.0/magpie_testbed.png" width="75%" height="75%">
 
